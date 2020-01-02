@@ -4,5 +4,5 @@
 <h3> Made another change, eh?</h3>
 <h4> This is getting silly, eh?</h4>
 <h5> Really silly</h5>
-<h6> So silly it hurts</h6>
-<h7> it's not right </h7>
+<h5> So silly it hurts</h5>
+<h5> it's not right </h5>
